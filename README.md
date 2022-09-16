@@ -1,3 +1,3 @@
 # TrendClustering
 
-Implementation of paper ["Clustering for Regional Time Trend in the Nonstationary Extreme Distribution"](https://www.mdpi.com/2073-4441/14/11/1720)
+> Hong, Sungchul, Jong-June Jeon, and Yongdai Kim. "Clustering for Regional Time Trend in the Nonstationary Extreme Distribution." Water 14.11 (2022): 1720.
